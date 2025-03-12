@@ -5,3 +5,4 @@
 -- insert into myentity (id, field) values(3, 'field-3');
 -- alter sequence myentity_seq restart with 4;
 insert into pedidos (id, cliente, total, estado, fecha) values (0, 'Juan Perez', 1500.50, 'Pendiente', '2025-03-10');
+insert into pedidos (id, cliente, total, estado, fecha) values (0, 'Raul Ruix', 1500.50, 'Pendiente', '2025-03-12');
