@@ -22,6 +22,7 @@ public class PedidoController {
     @Inject
     PedidoService pedidoService;
 
+
     @GET
     @Path("/listar")
     @Produces(MediaType.TEXT_PLAIN)
